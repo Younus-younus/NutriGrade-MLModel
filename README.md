@@ -9,6 +9,9 @@ An NLP-based machine learning model that predicts nutrition grades (A-D) from pr
 - **Dual-mode operation**: Automatically handles training and inference phases
 - **Model persistence**: Saves and loads trained models using joblib
 
+## Download the .tsv dataset file
+https://www.kaggle.com/datasets/openfoodfacts/world-food-facts
+
 ## Project Structure
 
 ```
